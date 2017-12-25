@@ -1,0 +1,298 @@
+{
+  "chatapp": [
+    {
+      "name": "Facebook",
+      "packgename": "com.facebook.katana",
+      "logo": "facebook",
+      "homepage": "http://m.facebook.com"
+    },
+    {
+      "name": "Messenger",
+      "packgename": "com.facebook.orca",
+      "logo": "message",
+      "homepage": "http://www.messenger.com"
+    },
+    {
+      "name": "Instagram",
+      "packgename": "com.instagram.android",
+      "logo": "instagram",
+      "homepage": "http://www.instagram.com"
+    },
+    {
+      "name": "Snapchat",
+      "packgename": "com.snapchat.android",
+      "logo": "snapchat",
+      "homepage": "http://www.snapchat.com"
+    },
+    {
+      "name": "Twitter",
+      "packgename": "com.twitter.android",
+      "logo": "twitter",
+      "homepage": "http://mobile.twitter.com"
+    },
+    {
+      "name": "Skype",
+      "packgename": "com.skype.raider",
+      "logo": "skype",
+      "homepage": "http://www.skype.com"
+    },
+    {
+      "name": "WeChat",
+      "packgename": "com.tencent.mm",
+      "logo": "wechat",
+      "homepage": "http://www.wechat.com"
+    },
+    {
+      "name": "VK",
+      "packgename": "com.vkontakte.android",
+      "logo": "vk",
+      "homepage": "http://m.vk.com"
+    },
+    {
+      "name": "Dailymotion",
+      "packgename": "com.dailymotion.dailymotion",
+      "logo": "dailymotion",
+      "homepage": "http://www.dailymotion.com"
+    },
+    {
+      "name": "Pinterest",
+      "packgename": "com.pinterest",
+      "logo": "pinterest",
+      "homepage": "http://www.pinterest.com"
+    },
+    {
+      "name": "Outlook",
+      "packgename": "com.microsoft.office.outlook",
+      "logo": "outlook",
+      "homepage": "http://www.outlook.com"
+    },
+    {
+      "name": "Gmail",
+      "packgename": "com.google.android.gm",
+      "logo": "gmail",
+      "homepage": "http://www.gmail.com"
+    },
+    {
+      "name": "Quora",
+      "packgename": "com.quora.android",
+      "logo": "quora",
+      "homepage": "http://www.quora.com"
+    },
+    {
+      "name": "Yahoo Messenger",
+      "packgename": "com.yahoo.mobile.client.android.im",
+      "logo": "yahoo",
+      "homepage": "http://messenger.yahoo.com"
+    },
+    {
+      "name": "AOL",
+      "packgename": "com.aol.mobile.aolapp",
+      "logo": "aol",
+      "homepage": "http://www.aol.com"
+    },
+    {
+      "name": "Yandex.Mail",
+      "packgename": "ru.yandex.mail",
+      "logo": "yandex",
+      "homepage": "http://mail.yandex.com"
+    },
+    {
+      "name": "Badoo",
+      "packgename": "com.badoo.mobile",
+      "logo": "baboo",
+      "homepage": "http://m.badoo.com"
+    },
+    {
+      "name": "Flickr",
+      "packgename": "com.yahoo.mobile.client.android.flickr",
+      "logo": "flickr",
+      "homepage": "http://www.flickr.com"
+    },
+    {
+      "name": "9GAG",
+      "packgename": "com.ninegag.android.app",
+      "logo": "gag9",
+      "homepage": "http://m.9gag.com"
+    },
+    {
+      "name": "Google+",
+      "packgename": "com.google.android.apps.plus",
+      "logo": "google",
+      "homepage": "http://plus.google.com"
+    },
+    {
+      "name": "Zoosk",
+      "packgename": "com.zoosk.zoosk",
+      "logo": "zoosk",
+      "homepage": "http://t.zoosk.com"
+    },
+    {
+      "name": "LinkedIn",
+      "packgename": "com.linkedin.android",
+      "logo": "linkedin",
+      "homepage": "http://www.linkedin.com"
+    },
+    {
+      "name": "Flipboard",
+      "packgename": "flipboard.app",
+      "logo": "flipboard",
+      "homepage": "http://www.flipboard.com"
+    },
+    {
+      "name": "Topface",
+      "packgename": "com.topface.topface",
+      "logo": "topface",
+      "homepage": "http://m.topface.com"
+    },
+    {
+      "name": "Tumblr",
+      "packgename": "com.tumblr",
+      "logo": "tumblr",
+      "homepage": "http://www.tumblr.com"
+    },
+    {
+      "name": "Mocospace",
+      "packgename": "com.jnj.mocospace.android",
+      "logo": "mocospace",
+      "homepage": "http://www.mocospace.com"
+    },
+    {
+      "name": "Reddit",
+      "packgename": "com.reddit.frontpage",
+      "logo": "reddit",
+      "homepage": "http://www.reddit.com"
+    },
+    {
+      "name": "Mail.Ru",
+      "packgename": "ru.mail.mailapp",
+      "logo": "mailapp",
+      "homepage": "hhttp://www.mail.ru"
+    },
+    {
+      "name": "Plenty of fish",
+      "packgename": "com.pof.android",
+      "logo": "fish",
+      "homepage": "http://www.pof.com"
+    },
+    {
+      "name": "We Heart It",
+      "packgename": "com.weheartit",
+      "logo": "weheartit",
+      "homepage": "http://weheartit.com/"
+    },
+    {
+      "name": "Yelp",
+      "packgename": "com.yelp.android",
+      "logo": "yelp",
+      "homepage": "http://www.yelp.com"
+    },
+    {
+      "name": "Hangouts",
+      "packgename": "com.google.android.talk",
+      "logo": "hangouts",
+      "homepage": "https://hangouts.google.com"
+    },
+    {
+      "name": "Telegram",
+      "packgename": "org.telegram.messenger",
+      "logo": "telegram",
+      "homepage": "http://www.telegram.org"
+    },
+    {
+      "name": "Android Messages",
+      "packgename": "com.google.android.apps.messaging",
+      "logo": "android_message",
+      "homepage": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging"
+    },
+    {
+      "name": "Text Me",
+      "packgename": "com.textmeinc.textme",
+      "logo": "textme",
+      "homepage": "https://go-text.me/"
+    },
+    {
+      "name": "Palringo",
+      "packgename": "com.palringo.android",
+      "logo": "com.palringo.android	palringo",
+      "homepage": "https://www.palringo.com"
+    },
+    {
+      "name": "Meetme",
+      "packgename": "com.myyearbook.m",
+      "logo": "meetme",
+      "homepage": "http://m.facebook.comhttps://touch.meetme.com/"
+    },
+    {
+      "name": "WhatsApp Messenger",
+      "packgename": "com.whatsapp",
+      "logo": "whatsapp",
+      "homepage": "http://www.whatsapp.com"
+    },
+    {
+      "name": "Kik",
+      "packgename": "kik.android",
+      "logo": "kik",
+      "homepage": "http://www.kik.com"
+    },
+    {
+      "name": "Tango",
+      "packgename": "com.sgiggle.production",
+      "logo": "tango",
+      "homepage": "https://www.tango.me/"
+    },
+    {
+      "name": "KakaoTalk",
+      "packgename": "com.kakao.talk",
+      "logo": "kakao",
+      "homepage": "http://www.kakao.com/talk/"
+    },
+    {
+      "name": "Viber Messenger",
+      "packgename": "com.viber.voip",
+      "logo": "viber",
+      "homepage": "https://www.viber.com/"
+    },
+    {
+      "name": "LINE",
+      "packgename": "jp.naver.line.android",
+      "logo": "line",
+      "homepage": "https://line.me"
+    },
+    {
+      "name": "hike messenger",
+      "packgename": "com.bsb.hike",
+      "logo": "hike",
+      "homepage": "http://www.hike.in"
+    },
+    {
+      "name": "BBM",
+      "packgename": "com.bbm",
+      "logo": "bbm",
+      "homepage": "http://www.bbm.com"
+    },
+    {
+      "name": "Nimbuzz Messenger",
+      "packgename": "com.nimbuzz",
+      "logo": "nimbuzz",
+      "homepage": "http://www.nimbuzz.com/"
+    },
+    {
+      "name": "imo",
+      "packgename": "com.imo.android.imoim",
+      "logo": "imo",
+      "homepage": "http://www.imo.com"
+    },
+    {
+      "name": "ICQ",
+      "packgename": "com.icq.mobile.client",
+      "logo": "icq",
+      "homepage": "http://www.icq.com"
+    },
+    {
+      "name": "InMessage",
+      "packgename": "com.futurebits.instamessage.free",
+      "logo": "inmessage",
+      "homepage": "http://insta.me/"
+    }
+  ]
+}
